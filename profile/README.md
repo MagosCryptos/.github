@@ -1,4 +1,4 @@
-+++ FORK, COMMIT, DEPLOY +++  
++++ DISCUSS, COMMIT, DEPLOY +++  
 
 We are Magos Cryptos. A research collective forging decentralized infrastructure, smart contracts and MEV-resistant systems through rigorous experimentation.
 
